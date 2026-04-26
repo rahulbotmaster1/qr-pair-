@@ -23,8 +23,8 @@ app.use('/qr', qrRouter)
 
 app.listen(PORT, () => {
     console.log('==============================')
-    console.log('      Iris MD - WhatsApp Linker')
-    console.log('           ©2026 Tshepang')
+    console.log('      𝚁𝙰𝙷𝚄𝙻-𝙰𝙸 - WhatsApp 𝚕𝚒𝚗𝚔𝚎𝚍')
+    console.log('           ©2026 ʀᴀʜᴜʟ-ᴍᴀSᴛᴇʀ')
     console.log(`Server running on http://localhost:${PORT}`)
     console.log('==============================')
 })
